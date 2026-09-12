@@ -3,7 +3,7 @@
 _Hello Hello Hello._ <br>
 My name is **James**, and if you couldnt tell by now, I like trains.<br>
 I primarily code in Python, and can do a bit of HTML and CSS, and am learning Javascript, and C++<br>
-I am currently doing my A-Levels including OCR Computer Science.
+I am currently doing my A-Levels including OCR Computer Science.<br>
 I like doing stuff (very specific, I know) on Raspberry Pis and microcontrollers.<br>
 I made a cool discord bot (its about trains, surprise surprise), so check it out!<br>
 I also happen to enjoy making cool stuff for my bike, cycling, kayaking, and woodworking.
